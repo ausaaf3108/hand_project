@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ausaaf/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages",
+        "/home/ausaaf/swarm_ws/install/maze_spawn/local/lib/python3.10/dist-packages",
+        "/home/ausaaf/ros2_ws/install/hand_robot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ausaaf/swarm_ws/install/swarm_pkg/lib/python3.10/site-packages",
+        "/home/ausaaf/swarm_ws/install/maze_spawn/local/lib/python3.10/dist-packages",
+        "/home/ausaaf/ros2_ws/install/hand_robot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

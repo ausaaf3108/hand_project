@@ -1,0 +1,42 @@
+[0.643s] Invoking command in '/home/ausaaf/hand_ws/src/hand_pkg': PYTHONPATH=/home/ausaaf/hand_ws/build/hand_pkg/prefix_override:/home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hand_pkg build --build-base /home/ausaaf/hand_ws/build/hand_pkg/build install --record /home/ausaaf/hand_ws/build/hand_pkg/install.log --single-version-externally-managed
+[0.839s] running egg_info
+[0.840s] creating ../../build/hand_pkg/hand_pkg.egg-info
+[0.841s] writing ../../build/hand_pkg/hand_pkg.egg-info/PKG-INFO
+[0.841s] writing dependency_links to ../../build/hand_pkg/hand_pkg.egg-info/dependency_links.txt
+[0.841s] writing entry points to ../../build/hand_pkg/hand_pkg.egg-info/entry_points.txt
+[0.841s] writing requirements to ../../build/hand_pkg/hand_pkg.egg-info/requires.txt
+[0.841s] writing top-level names to ../../build/hand_pkg/hand_pkg.egg-info/top_level.txt
+[0.841s] writing manifest file '../../build/hand_pkg/hand_pkg.egg-info/SOURCES.txt'
+[0.843s] reading manifest file '../../build/hand_pkg/hand_pkg.egg-info/SOURCES.txt'
+[0.844s] writing manifest file '../../build/hand_pkg/hand_pkg.egg-info/SOURCES.txt'
+[0.844s] running build
+[0.844s] running build_py
+[0.844s] creating /home/ausaaf/hand_ws/build/hand_pkg/build
+[0.844s] creating /home/ausaaf/hand_ws/build/hand_pkg/build/lib
+[0.844s] creating /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg
+[0.844s] copying hand_pkg/__init__.py -> /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg
+[0.844s] copying hand_pkg/send_hand.py -> /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg
+[0.844s] copying hand_pkg/hand_test.py -> /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg
+[0.845s] running install
+[0.845s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.845s]   warnings.warn(
+[0.845s] running install_lib
+[0.846s] creating /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+[0.846s] copying /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg/__init__.py -> /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+[0.846s] copying /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg/send_hand.py -> /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+[0.846s] copying /home/ausaaf/hand_ws/build/hand_pkg/build/lib/hand_pkg/hand_test.py -> /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+[0.846s] byte-compiling /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg/__init__.py to __init__.cpython-310.pyc
+[0.846s] byte-compiling /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg/send_hand.py to send_hand.cpython-310.pyc
+[0.847s] byte-compiling /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg/hand_test.py to hand_test.cpython-310.pyc
+[0.848s] running install_data
+[0.849s] creating /home/ausaaf/hand_ws/install/hand_pkg/share/ament_index
+[0.849s] creating /home/ausaaf/hand_ws/install/hand_pkg/share/ament_index/resource_index
+[0.849s] creating /home/ausaaf/hand_ws/install/hand_pkg/share/ament_index/resource_index/packages
+[0.849s] copying resource/hand_pkg -> /home/ausaaf/hand_ws/install/hand_pkg/share/ament_index/resource_index/packages
+[0.849s] copying package.xml -> /home/ausaaf/hand_ws/install/hand_pkg/share/hand_pkg
+[0.849s] running install_egg_info
+[0.851s] Copying ../../build/hand_pkg/hand_pkg.egg-info to /home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages/hand_pkg-0.0.0-py3.10.egg-info
+[0.852s] running install_scripts
+[0.868s] Installing get_hand script to /home/ausaaf/hand_ws/install/hand_pkg/lib/hand_pkg
+[0.868s] writing list of installed files to '/home/ausaaf/hand_ws/build/hand_pkg/install.log'
+[0.888s] Invoked command in '/home/ausaaf/hand_ws/src/hand_pkg' returned '0': PYTHONPATH=/home/ausaaf/hand_ws/build/hand_pkg/prefix_override:/home/ausaaf/hand_ws/install/hand_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hand_pkg build --build-base /home/ausaaf/hand_ws/build/hand_pkg/build install --record /home/ausaaf/hand_ws/build/hand_pkg/install.log --single-version-externally-managed

@@ -1,0 +1,38 @@
+running egg_info
+creating ../build/hand_pkg/hand_pkg.egg-info
+writing ../build/hand_pkg/hand_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/hand_pkg/hand_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/hand_pkg/hand_pkg.egg-info/entry_points.txt
+writing requirements to ../build/hand_pkg/hand_pkg.egg-info/requires.txt
+writing top-level names to ../build/hand_pkg/hand_pkg.egg-info/top_level.txt
+writing manifest file '../build/hand_pkg/hand_pkg.egg-info/SOURCES.txt'
+reading manifest file '../build/hand_pkg/hand_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/hand_pkg/hand_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ausaaf/hand_ws/src/build/hand_pkg/build
+creating /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib
+creating /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg
+copying hand_pkg/__init__.py -> /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg
+copying hand_pkg/send_hand.py -> /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg
+copying hand_pkg/hand_test.py -> /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg
+running install
+running install_lib
+creating /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+copying /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg/__init__.py -> /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+copying /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg/send_hand.py -> /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+copying /home/ausaaf/hand_ws/src/build/hand_pkg/build/lib/hand_pkg/hand_test.py -> /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg
+byte-compiling /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg/send_hand.py to send_hand.cpython-310.pyc
+byte-compiling /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg/hand_test.py to hand_test.cpython-310.pyc
+running install_data
+creating /home/ausaaf/hand_ws/src/install/hand_pkg/share/ament_index
+creating /home/ausaaf/hand_ws/src/install/hand_pkg/share/ament_index/resource_index
+creating /home/ausaaf/hand_ws/src/install/hand_pkg/share/ament_index/resource_index/packages
+copying resource/hand_pkg -> /home/ausaaf/hand_ws/src/install/hand_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/ausaaf/hand_ws/src/install/hand_pkg/share/hand_pkg
+running install_egg_info
+Copying ../build/hand_pkg/hand_pkg.egg-info to /home/ausaaf/hand_ws/src/install/hand_pkg/lib/python3.10/site-packages/hand_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing get_hand script to /home/ausaaf/hand_ws/src/install/hand_pkg/lib/hand_pkg
+writing list of installed files to '/home/ausaaf/hand_ws/src/build/hand_pkg/install.log'
